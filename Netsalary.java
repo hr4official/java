@@ -1,4 +1,6 @@
-class NetSalary
+import java.util.Scanner;
+
+class Netsalary
 {
 	public static void main(String arg[])	
 	{
