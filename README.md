@@ -2,7 +2,7 @@
  java 
  
  
- java simple programs
+ java simple programs for input output using scanner 
  
  applet program (house design)
 
@@ -19,6 +19,9 @@ select system dsn tab
 click to add 
 # step 5 
 select  database (here we use access so choose accdb)
+
+
+if you are not able to find aceess database here then go to your system drive (generally c:/) and go and follow ( C:\Windows\SysWOW64 ) go for odbc.exe and search for accdb there 
 # step 6 
 comlete this and close 
 
