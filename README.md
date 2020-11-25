@@ -2,6 +2,33 @@
  java 
  
  
+ # html + java = jsp
+
+next tech of servlet is jsp 
+
+no 3 file all in one 
+
+jsp stands for java server pages
+
+jsp have extension of .jsp
+
+jsp is nothing but servlet only '
+
+jsp file execulted on  server only (apach tom cat )
+
+jsp have html code as well as jsp code
+
+jsp used for ui/front end/display purpose 
+
+jsp provides more functionality then servlet
+
+
+jsp is extension of    servlet
+ 
+ 
+ 
+ 
+ 
  java simple programs for input output using scanner 
  
  applet program (house design)
